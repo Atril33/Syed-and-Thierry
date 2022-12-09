@@ -74,3 +74,21 @@ img{
     border-radius: 15px;
 
 }
+
+.footer_links {
+    background:#ffffff;
+    width: 100%;
+    height:200px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.clo {
+    color:blue;
+    text-transform: uppercase;
+    font-family:Ink Free;
+    transform: 1s;
+}
+.clo:hover {
+    border-bottom: 1px solid blue;
+}
